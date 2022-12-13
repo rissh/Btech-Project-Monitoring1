@@ -1,5 +1,13 @@
 # Btech-Project-Monitoring1
 
+## *Analysis of New York Yellow Taxi Trip Data*
+
+## Introduction of NYC Yellow Taxi: 
+- ### Yellow Taxis are the only vehicles licensed to pick up street-hailing passengers anywhere in NYC. 
+- ### Yellow Taxis charge standard [metered fares](https://www1.nyc.gov/site/tlc/passengers/taxi-fare.page) for all street hail trips.
+- ### Yellow Taxi smartphone apps can offer set, upfront pricing for trips booked through an app.
+- ### Yellow Taxis are easily identified by their yellow color, taxi “T” markings, and license numbers on the roof and sides of the vehicle.
+
 ## Introduction of NYC Yellow Taxi Trip Data:
 Variable Name | Description |
 --------------|------------------|
@@ -19,3 +27,14 @@ Variable Name | Description |
 **tip_amount :**             | This field is automatically populated for credit card tips. Cash tips are not included.<br>
 **toll_amount :**            | Total amount of all tolls paid in trip.<br>
 **total_amount :**           | The total amount charged to passengers. Does not include cash tips.
+
+
+
+
+
+## Objective:
+- **The core objective of this project is to analyse the factors for demand for taxis, to find the most pickups, drop-offs of public based on their location, time of most traffic and how to overcome the needs of the public.**
+
+## Architecture Diagram:<br>
+![](https://github.com/nileshsingal/Analysis-Of-NYC-Yellow-Taxi-/blob/master/Images/arch_dig.png)
+
